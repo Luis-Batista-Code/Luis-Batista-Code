@@ -30,3 +30,7 @@ Sou um engenheiro de software apaixonado pelo mundo da Ciência de Dados e Engen
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=TCC&theme=radical)](https://github.com/Luis-Batista-Code/TCC)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=Discord-bot&theme=radical)](https://github.com/Luis-Batista-Code/Discord-bot)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=WallHack-Aprendizado&theme=radical)](https://github.com/Luis-Batista-Code/WallHack-Aprendizado)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=AimBot-Aprendizado&theme=radical)](https://github.com/Luis-Batista-Code/AimBot-Aprendizado)
