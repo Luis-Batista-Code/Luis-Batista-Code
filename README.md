@@ -27,14 +27,6 @@ Sou um engenheiro de software apaixonado pelo mundo da Ciência de Dados e Engen
 
 ## Core Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=automated-ingestion-data&theme=radical)](https://github.com/Luis-Batista-Code/TCC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=TCC&theme=radical)](https://github.com/Luis-Batista-Code/TCC)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=projetos-python&theme=radical)](https://github.com/Luis-Batista-Code/Discord-bot)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=data-science&theme=radical)]()
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=machine-learning&theme=radical)]()
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=software-enginerring&theme=radical)]()
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=analise-dados-telegram-bot&theme=radical)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=Discord-bot&theme=radical)](https://github.com/Luis-Batista-Code/Discord-bot)
