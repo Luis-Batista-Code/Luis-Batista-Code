@@ -15,7 +15,7 @@ Sou um engenheiro de software apaixonado pelo mundo da Ciência de Dados e Engen
 </p>
 
 ## Details
-- 🔭 Estou não estou trabalhando
+- 🔭 Não estou trabalhando
 - 🌱 Estou aprimorando minhas habilidades com C# e C++ em driver kernel.
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com o compartilhamento de conhecimento.
 - 😄 Pronomes: Ele/Dele.
