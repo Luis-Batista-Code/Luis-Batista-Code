@@ -18,7 +18,6 @@ Sou um engenheiro de software apaixonado pelo mundo da Ciência de Dados e Engen
 - 🔭 Não estou trabalhando
 - 🌱 Estou aprimorando minhas habilidades com C# e C++ em driver kernel.
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com o compartilhamento de conhecimento.
-- 😄 Pronomes: Ele/Dele.
 
 [![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-Batista-Code&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
