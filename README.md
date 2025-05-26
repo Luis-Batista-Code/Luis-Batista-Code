@@ -2,9 +2,9 @@
 <h3 align="center">Desenvolvedor & Software</h3>
 
 
-I am a software engineer passionate about the world of Data Science and Data Engineering. I have academic experience using different technologies in different contexts, especially C#, C++ & C. I believe that my development contributes to my own development. I love learning new concepts, experiencing new challenges and passing on all the knowledge to impact other people's lives.
+I am a software engineer passionate about the world of Data Science and Data Engineering. I have academic experience using different technologies in different contexts, especially C#, C++ & C. I believe that my development contributes. I love learning new concepts, experiencing new challenges and passing on all the knowledge to impact other people's lives.
 
-Sou um engenheiro de software apaixonado pelo mundo da Ciência de Dados e Engenharia de Dados. Tenho experiência Academica utilizando diferentes tecnologias em diversos contextos, especialmente C#, C++ & C. Acredito que meu desenvolvimento contribui para o desenvolvimento meu. Adoro aprender novos conceitos, vivenciar novos desafios e repassar todo o conhecimento para impactar a vida de outras pessoas.
+Sou um engenheiro de software apaixonado pelo mundo da Ciência de Dados e Engenharia de Dados. Tenho experiência Academica utilizando diferentes tecnologias em diversos contextos, especialmente C#, C++ & C. Acredito que meu desenvolvimento. Adoro aprender novos conceitos, vivenciar novos desafios e repassar todo o conhecimento para impactar a vida de outras pessoas.
 
 
 ## Skills
