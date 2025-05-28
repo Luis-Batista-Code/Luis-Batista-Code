@@ -32,4 +32,4 @@ Sou um engenheiro de software apaixonado pelo mundo da Ciência de Dados e Engen
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=login-portfolio&theme=radical)](https://github.com/Luis-Batista-Code/login-portfolio)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=AimBot-Aprendizado&theme=radical)](https://github.com/Luis-Batista-Code/AimBot-Aprendizado)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=calendario-clima&theme=radical)](https://github.com/Luis-Batista-Code/calendario-clima)
