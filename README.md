@@ -28,7 +28,7 @@ Sou um engenheiro de software apaixonado pelo mundo da Ciência de Dados e Engen
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=calculadora-iphone&theme=radical)](https://github.com/Luis-Batista-Code/calculadora-iphone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=Discord-bot&theme=radical)](https://github.com/Luis-Batista-Code/Discord-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=live-chat&theme=radical)](https://github.com/Luis-Batista-Code/live-chat)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Batista-Code&repo=login-portfolio&theme=radical)](https://github.com/Luis-Batista-Code/login-portfolio)
 
